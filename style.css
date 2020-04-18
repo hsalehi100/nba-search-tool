@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap');
+
+#players {
+    font-family: 'Roboto Condensed';
+}
+
+.container {
+    width: 500px;
+    height: 400px;
+    background-color: #e0e0e0;
+    border-radius: 10px;
+    margin-top: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10%;
+}
+
+.content {
+    margin-right: auto;
+    margin-left: auto;
+    width: 350px;
+    padding-top: 20px;
+}
+
+.title {
+    font-family: 'Roboto Condensed';
+    font-weight: 700;
+}
+
+#search {
+    font-family: 'Roboto Condensed';
+    font-weight: 400;
+}
+
+.name {
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+.team{
+    margin-top: 0px;
+    margin-bottom: 10px;
+    font-weight: 400;
+}
+
+.stats {
+    margin-top: 0px;
+    margin-bottom: 5px;
+    font-weight: 600;
+    font-size: 13px;
+}
+
+.statsAdv {
+    font-weight: 400;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    font-size: 11px;
+}
+
+.hidden {
+    display: none;
+}
